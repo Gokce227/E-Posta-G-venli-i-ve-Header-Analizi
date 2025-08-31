@@ -1,4 +1,5 @@
-# SOC Security Simulation Projects
+# Email-Security-and-Header-Analysis
+
 
 Bu repository, **Blue Team Uygulamalı Eğitim Serisi** kapsamında gerçekleştirilen projeleri içerir. Amaç, katılımcıların gerçek dünyadaki siber saldırıları analiz etme ve tehdit tespiti becerilerini geliştirmektir.
 

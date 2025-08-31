@@ -47,5 +47,5 @@ Bu repository, **Blue Team Uygulamalı Eğitim Serisi** kapsamında gerçekleşt
 
 ---
 
-## 📁 Dosya Yapısı
+
 
